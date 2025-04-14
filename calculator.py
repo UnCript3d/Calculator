@@ -20,5 +20,7 @@ class calculator:
              x=int(input("Input your first number"))
              y=int(input("Input your secound number"))
              z=x*y
+        else:
+            print("Please give valid input")
                 
 calculator.start()            
